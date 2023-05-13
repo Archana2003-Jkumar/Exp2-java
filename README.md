@@ -29,7 +29,8 @@ public class Exp2 {
                 System.out.println("A is equal to B");
         }
     }
-    ```
+   
+   ```
 ## Output:
 ![image](https://github.com/Archana2003-Jkumar/Exp2-java/assets/93427594/217b454c-8a9c-4fcd-82b4-2c9bb898ae10)
 ## Result:
